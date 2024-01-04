@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AtishayJain
 - 👀 I’m interested in AI , Deep Learning and Technology
 - 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on Some good Python Projects
+- 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me using my email: theatishayjain2003@gmail.com
 
 <!---
